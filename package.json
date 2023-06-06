@@ -1,5 +1,5 @@
 {
-  "name": "gridjs-selection",
+  "name": "gridjs-better-selection",
   "version": "1.0.0",
   "description": "A selection plugin for gridjs. It enables multiple or single selection",
   "author": "Fabien Ancelin",
