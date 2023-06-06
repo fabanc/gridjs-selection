@@ -1,7 +1,7 @@
 {
   "name": "gridjs-selection",
   "version": "1.0.0",
-  "description": "A selection plugin for gridjs",
+  "description": "A selection plugin for gridjs. It enables multiple or single selection",
   "author": "Fabien Ancelin",
   "license": "Apache-2.0",
   "bugs": {
@@ -83,6 +83,9 @@
     "url": "git+https://github.com/fabanc/gridjs-selection.git"
   },
   "keywords": [
-    "gridjs"
+    "gridjs",
+    "selection",
+    "single selection",
+    "multiple selection"
   ]
 }
