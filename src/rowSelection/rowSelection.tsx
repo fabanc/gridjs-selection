@@ -20,7 +20,7 @@ export function RowSelectionMultiple(props: RowSelectionProps) {
 
 export function RowSelectionCore(
   props: RowSelectionProps,
-  singleSelect: boolean = false,
+  singleSelect = false,
 ) {
   const { dispatch } = useStore();
   const state = useSelector((state) => state.rowSelection);

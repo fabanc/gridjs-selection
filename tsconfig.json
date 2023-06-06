@@ -30,6 +30,7 @@
   "include": [
     "index.ts",
     "src/**/*",
-    "tests/jest/**/*"
+    "tests/jest/**/*",
+    "tests/**/*"
   ]
 }
