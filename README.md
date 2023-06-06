@@ -6,6 +6,13 @@ This plugin is designed for [gridjs](https://github.com/grid-js/gridjs). The goa
 
 ## Examples
 
+In HTML, you must first load the plugin and gridjs, as the plugin depends on it.
+
+```html
+<script src="js/gridjs.umd.js"></script>
+<script src="js/gridjsselection.umd.js"></script>
+```
+
 ### Single Row Selection Plugin
 
 ```javascript
